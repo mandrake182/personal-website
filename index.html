@@ -179,17 +179,30 @@
 			<script>
 
 				$("#contact_form").on("submit", function( event ) {
-					Email.send({
-						Host : "smtp.elasticemail.com",
-						Username : "mayajahir8@gmail.com",
-						Password : "36C8290381BD457613B309938105019353A9",
-						To : 'mayajahir8@gmail.com',
-						From : $("#email").val(),
-						Subject : "Request from personal website - " + $("#name").val(),
-						Body : $("#message").val()
-					}).then(
-						message => alert(message)
-					);
+					
+					var url = 'https://send.api.mailtrap.io/api/send';
+					var data = {"from":{"email":"mailtrap@demomailtrap.com","name":"Mailtrap Test"},"to":[{"email":"mayajahir8@gmail.com"}],"subject":"You are awesome!","text":"Congrats you're cool developer","category":"Integration Test"};
+					fetch(url, {
+						body: JSON.stringify(data),
+						headers: {
+						'dataType': 'json',
+						'content-type': 'application/json',
+						"Authorization": "Bearer 3dc5f38378067f858699bb2a25f075c1"
+						},
+						method: 'POST',
+						redirect: 'follow'
+					})
+					.then(response => {
+						if (response.status === 200) {
+						console.log(response.text());
+					} else {
+					throw new Error('Something went wrong on api server!');
+					}
+					})
+					.catch(error => {
+					console.error(error);
+					});
+
 
 					event.preventDefault();
 				});
