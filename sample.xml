@@ -39,16 +39,10 @@
 		<videoPlayer>
 			<videoAsset customId="150926">
 				<adSlots>
-					<temporalAdSlot adUnit="Standard Pre" customId="0.0.0.380260307" source="generated" timePosition="0" timePositionClass="preroll">
+					<temporalAdSlot adUnit="Standard Mid" customId="midroll0" source="generated" timePosition="240" timePositionClass="midroll">
 						<selectedAds>
 							<adReference adId="1" creativeId="12" creativeRenditionId="1" replicaId="0">
 							</adReference>						
-						</selectedAds>
-					</temporalAdSlot>
-					<temporalAdSlot adUnit="midroll" customId="midroll0" timePosition="240" timePositionClass="midroll">
-						<selectedAds>
-							<adReference adId="2" creativeId="22" creativeRenditionId="2" replicaId="0">
-							</adReference>
 						</selectedAds>
 					</temporalAdSlot>
 				</adSlots>
