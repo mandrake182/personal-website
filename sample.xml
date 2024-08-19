@@ -45,7 +45,7 @@
 							</adReference>						
 						</selectedAds>
 					</temporalAdSlot>
-					<temporalAdSlot adUnit="midroll" customId="midroll0" timePosition="240" timePositionClass="midroll">
+					<temporalAdSlot adUnit="midroll" customId="midroll0" timePosition="100" timePositionClass="midroll">
 						<selectedAds>
 							<adReference adId="2" creativeId="22" creativeRenditionId="2" replicaId="0">
 							</adReference>
