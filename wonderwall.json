@@ -1,0 +1,370 @@
+{
+  "fonts": [
+    {
+      "family": "Arial",
+      "name": "Arial-BoldMT",
+      "size": 16,
+      "url": "https://fontDownloadLink",
+      "style": "caption",
+      "weight": "regular",
+      "line": {
+        "height": 1,
+        "spacing": 10
+      }
+    },
+    {
+      "family": "Arial",
+      "name": "Arial-BoldMT",
+      "size": 16,
+      "url": "https://fontDownloadLink",
+      "style": "heading",
+      "weight": "regular",
+      "line": {
+        "height": 1,
+        "spacing": 10
+      }
+    }
+  ],
+  "colors": {
+    "neutralTexts": {
+      "neutralTextPrimary": "#63BE36",
+      "neutralTextSecondary": "#63BE36",
+      "neutralTextDisable": "#63BE36",
+      "neutralTextActive": "#63BE36"
+    },
+    "neutralTextsCross": {
+      "neutralTextCrossWhitePrimary": "#63BE36",
+      "neutralTextCrossWhiteSecondary": "#63BE36",
+      "neutralTextCrossGray": "#63BE36",
+      "neutralTextCrossBlackPrimary": "#63BE36",
+      "neutralTextCrossBlackSecondary": "#63BE36",
+      "neutralBgPrimary": "#63BE36",
+      "neutralBgSecondary": "#63BE36",
+      "neutralBgTertiary": "#63BE36",
+      "neutralBgDisable": "#63BE36",
+      "neutralBgActive": "#63BE36"
+    },
+    "hoverNeutralBackground": {
+      "neutralHoverBgPrimary": "#63BE36",
+      "neutralHoverBgSecondary": "#63BE36",
+      "neutralHoverBgTertiary": "#63BE36",
+      "neutralHoverBgDisable": "#63BE36",
+      "neutralHoverBgActive": "#63BE36"
+    },
+    "neutralBackgroundCross": {
+      "neutralBgCrossWhitePrimary": "#63BE36",
+      "neutralBgCrossWhiteSecondary": "#63BE36",
+      "neutralBgCrossGray": "#63BE36",
+      "neutralBgCrossBlackPrimary": "#63BE36",
+      "neutralBgCrossBlackSecondary": "#63BE36"
+    },
+    "neutralBorder": {
+      "neutralBorderPrimary": "#63BE36",
+      "neutralBorderSecondary": "#63BE36"
+    },
+    "hoverBorderCross": {
+      "neutralBorderCrossBlackPrimary": "#63BE36",
+      "neutralBorderCrossBlackSecondary": "#63BE36",
+      "neutralBorderCrossWhitePrimary": "#63BE36",
+      "neutralBorderCrossWhiteSecondary": "#63BE36"
+    },
+    "main": {
+      "mainTextPrimary": "#63BE36",
+      "mainBgPrimary": "#63BE36",
+      "mainBgActive": "#63BE36",
+      "mainBorder": "#63BE36",
+      "mainBrand": "#63BE36"
+    },
+    "mainHoverBackground": {
+      "mainHoverBgPrimary": "#63BE36",
+      "mainHoverBgActive": "#63BE36"
+    },
+    "complementary": {
+      "complementaryTextPrimary": "#63BE36",
+      "complementaryBgPrimary": "#63BE36",
+      "complementaryHoverBgPrimary": "#63BE36",
+      "complementaryBorder": "#63BE36",
+      "complementaryBand": "#63BE36"
+    },
+    "success": {
+      "successTextPrimary": "#63BE36",
+      "successBgPrimary": "#63BE36",
+      "successHoverBgPrimary": "#63BE36",
+      "successBorder": "#63BE36"
+    },
+    "warning": {
+      "warningTextPrimary": "#63BE36",
+      "warningBgPrimary": "#63BE36",
+      "warningHoverBgPrimary": "#63BE36",
+      "warningBorder": "#63BE36"
+    },
+    "error": {
+      "errorTextPrimary": "#63BE36",
+      "errorBgPrimary": "#63BE36",
+      "errorHoverBgPrimary": "#63BE36",
+      "errorBorder": "#63BE36"
+    },
+    "informative": {
+      "informativeTextPrimary": "#63BE36",
+      "informativeBgPrimary": "#63BE36",
+      "informativeHoverBgPrimary": "#63BE36",
+      "informativeBorder": "#63BE36"
+    },
+    "avatar": {
+      "avatarBg1": "#63BE36",
+      "avatarBg2": "#63BE36",
+      "avatarBg3": "#63BE36",
+      "avatarBg4": "#63BE36",
+      "avatarBg5": "#63BE36"
+    },
+    "opacity": {
+      "opacityBlackWeakest": "#63BE36",
+      "opacityBlackWeak": "#63BE36",
+      "opacityBlackMedium": "#63BE36",
+      "opacityBlackStrong": "#63BE36",
+      "opacityBlackStrongest": "#63BE36",
+      "opacityWhiteWeakest": "#63BE36",
+      "opacityWhiteWeak": "#63BE36",
+      "opacityWhiteMedium": "#63BE36",
+      "opacityWhiteStrong": "#63BE36",
+      "opacityWhiteStrongest": "#63BE36"
+    },
+    "age_rating": {
+      "brazil_l": "#63BE36",
+      "brazil_10": "#63BE36",
+      "brazil_12": "#63BE36",
+      "brazil_14": "#63BE36",
+      "brazil_16": "#63BE36",
+      "brazil_18": "#63BE36",
+      "brazil_er": "#63BE36"
+    }
+  },
+  "icons": {
+    "volume": {
+      "max": "https://imageDownloadLink",
+      "mid": "https://imageDownloadLink",
+      "min": "https://imageDownloadLink",
+      "off": "https://imageDownloadLink"
+    },
+    "arrow": {
+      "down": "https://imageDownloadLink",
+      "left": "https://imageDownloadLink",
+      "right": "https://imageDownloadLink",
+      "up": "https://imageDownloadLink"
+    },
+    "chevron": {
+      "down": "https://imageDownloadLink",
+      "left": "https://imageDownloadLink",
+      "right": "https://imageDownloadLink",
+      "up": "https://imageDownloadLink"
+    },
+    "cast": {
+      "forward": "https://imageDownloadLink",
+      "pause": "https://imageDownloadLink",
+      "play": "https://imageDownloadLink",
+      "rewind": "https://imageDownloadLink"
+    },
+    "chromecast": {
+      "max": "https://imageDownloadLink",
+      "mid": "https://imageDownloadLink",
+      "min": "https://imageDownloadLink",
+      "on": "https://imageDownloadLink"
+    },
+    "user": {
+      "add": "https://imageDownloadLink",
+      "remove": "https://imageDownloadLink",
+      "user": "https://imageDownloadLink"
+    },
+    "playback": {
+      "play": "https://imageDownloadLink",
+      "replay": "https://imageDownloadLink",
+      "pause": "https://imageDownloadLink"
+    }
+  },
+  "images": {
+    "background": {
+      "login": "https://imageDownloadLink",
+      "welcome": "https://imageDownloadLink",
+      "granHermanoWelcome": "https://imageDownloadLink",
+      "welcomeTVGranHermano": "https://imageDownloadLink"
+    },
+    "logo": {
+      "dgoTapppLogo": "https://logoDownloadLink",
+      "granHermanoLogo": "https://logoDownloadLink",
+      "logo": "https://logoDownloadLink",
+      "logoTermsOfServiceDGO": "https://logoDownloadLink"
+    },
+    "live": {
+      "tag": "https://imageDownloadLink",
+      "toolbar": "https://imageDownloadLink",
+      "cardPlaceholder": "https://imageDownloadLink",
+      "previewPlaceholder": "https://imageDownloadLink"
+    },
+    "player": {
+      "error": "https://imageDownloadLink",
+      "errorConcurrency": "https://imageDownloadLink",
+      "errorLocked": "https://imageDownloadLink",
+      "generalError": "https://imageDownloadLink",
+      "locked": "https://imageDownloadLink",
+      "noConnection": "https://imageDownloadLink",
+      "wifi": "https://imageDownloadLink"
+    },
+    "interactvityOnboarding": {
+      "page1": "https://imageDownloadLink",
+      "page2": "https://imageDownloadLink",
+      "page3": "https://imageDownloadLink"
+    },
+    "tv": {
+      "all": "https://imageDownloadLink",
+      "episode": "https://imageDownloadLink",
+      "arrowLeft": "https://imageDownloadLink",
+      "arrowRight": "https://imageDownloadLink",
+      "exclusives": "https://imageDownloadLink",
+      "exit": "https://imageDownloadLink",
+      "international": "https://imageDownloadLink",
+      "kids": "https://imageDownloadLink",
+      "live": "https://imageDownloadLink",
+      "local": "https://imageDownloadLink",
+      "miniEPGTV": "https://imageDownloadLink",
+      "movies": "https://imageDownloadLink",
+      "next": "https://imageDownloadLink",
+      "others": "https://imageDownloadLink",
+      "premium": "https://imageDownloadLink",
+      "recents": "https://imageDownloadLink",
+      "replay": "https://imageDownloadLink",
+      "tv": "https://imageDownloadLink"
+    },
+    "company": {
+      "google": "https://imageDownloadLink",
+      "youtube": "https://imageDownloadLink",
+      "twitter": "https://imageDownloadLink",
+      "linkedin": "https://imageDownloadLink"
+    },
+    "profile": {
+      "profileErrorUser": "https://imageDownloadLink"
+    },
+    "upsell": {
+      "playBlockedContent": "https://imageDownloadLink",
+      "playContent": "https://imageDownloadLink",
+      "incentive": "https://imageDownloadLink"
+    },
+    "placeholder": {
+      "flag": "https://imageDownloadLink",
+      "qr": "https://imageDownloadLink",
+      "autoPlay": "https://imageDownloadLink",
+      "browseLander": "https://imageDownloadLink",
+      "collection": "https://imageDownloadLink",
+      "collections": "https://imageDownloadLink",
+      "continueWatching": "https://imageDownloadLink",
+      "episode": "https://imageDownloadLink",
+      "highlightLandscape": "https://imageDownloadLink",
+      "poster": "https://imageDownloadLink",
+      "highlight": "https://imageDownloadLink"
+    },
+    "general": {
+      "circleLock": "https://imageDownloadLink",
+      "circleParentalControl": "https://imageDownloadLink",
+      "mylist": "https://imageDownloadLink",
+      "mylistDone": "https://imageDownloadLink",
+      "zappingOnboardingRemoteControl": "https://imageDownloadLink",
+      "alert": "https://imageDownloadLink",
+      "circlePlayButton": "https://imageDownloadLink",
+      "editIcon": "https://imageDownloadLink",
+      "editIconFill": "https://imageDownloadLink",
+      "trash": "https://imageDownloadLink",
+      "airPlay": "https://imageDownloadLink",
+      "alertModalError": "https://imageDownloadLink",
+      "aspectRatio": "https://imageDownloadLink",
+      "backward": "https://imageDownloadLink",
+      "bill": "https://imageDownloadLink",
+      "block": "https://imageDownloadLink",
+      "chat": "https://imageDownloadLink",
+      "checkCircle": "https://imageDownloadLink",
+      "check": "https://imageDownloadLink",
+      "circleX": "https://imageDownloadLink",
+      "close": "https://imageDownloadLink",
+      "connected": "https://imageDownloadLink",
+      "copy": "https://imageDownloadLink",
+      "creditCard": "https://imageDownloadLink",
+      "decoder": "https://imageDownloadLink",
+      "delete": "https://imageDownloadLink",
+      "desktop": "https://imageDownloadLink",
+      "download": "https://imageDownloadLink",
+      "edit": "https://imageDownloadLink",
+      "email": "https://imageDownloadLink",
+      "episode": "https://imageDownloadLink",
+      "equalizer": "https://imageDownloadLink",
+      "error": "https://imageDownloadLink",
+      "exitApp": "https://imageDownloadLink",
+      "facebook": "https://imageDownloadLink",
+      "filter": "https://imageDownloadLink",
+      "firstAccessAvatar": "https://imageDownloadLink",
+      "forward": "https://imageDownloadLink",
+      "fullscreenExit": "https://imageDownloadLink",
+      "fullscreen": "https://imageDownloadLink",
+      "genericError": "https://imageDownloadLink",
+      "heartFull": "https://imageDownloadLink",
+      "heart": "https://imageDownloadLink",
+      "help": "https://imageDownloadLink",
+      "home": "https://imageDownloadLink",
+      "info": "https://imageDownloadLink",
+      "instagram": "https://imageDownloadLink",
+      "jailBreakError": "https://imageDownloadLink",
+      "key": "https://imageDownloadLink",
+      "keyboard": "https://imageDownloadLink",
+      "letterBox": "https://imageDownloadLink",
+      "link": "https://imageDownloadLink",
+      "listBullet": "https://imageDownloadLink",
+      "listMenu": "https://imageDownloadLink",
+      "lock": "https://imageDownloadLink",
+      "loginErrorLoggedOut": "https://imageDownloadLink",
+      "loginErrorServerConnection": "https://imageDownloadLink",
+      "maintenance": "https://imageDownloadLink",
+      "menu": "https://imageDownloadLink",
+      "miniEPG": "https://imageDownloadLink",
+      "minusCircle": "https://imageDownloadLink",
+      "minus": "https://imageDownloadLink",
+      "moreHorizontal": "https://imageDownloadLink",
+      "moreVertical": "https://imageDownloadLink",
+      "next": "https://imageDownloadLink",
+      "notification": "https://imageDownloadLink",
+      "openNew": "https://imageDownloadLink",
+      "parentalControl": "https://imageDownloadLink",
+      "pause": "https://imageDownloadLink",
+      "phone": "https://imageDownloadLink",
+      "pictureInPicture": "https://imageDownloadLink",
+      "plan": "https://imageDownloadLink",
+      "plataform": "https://imageDownloadLink",
+      "platforms": "https://imageDownloadLink",
+      "playCircle": "https://imageDownloadLink",
+      "plusCircle": "https://imageDownloadLink",
+      "plus": "https://imageDownloadLink",
+      "previous": "https://imageDownloadLink",
+      "refresh": "https://imageDownloadLink",
+      "reply": "https://imageDownloadLink",
+      "rocket": "https://imageDownloadLink",
+      "tablet": "https://imageDownloadLink",
+      "tag": "https://imageDownloadLink",
+      "ticket": "https://imageDownloadLink",
+      "trophy": "https://imageDownloadLink",
+      "unfoldMore": "https://imageDownloadLink",
+      "unlock": "https://imageDownloadLink",
+      "updateErrorIcon": "https://imageDownloadLink",
+      "video": "https://imageDownloadLink",
+      "viewBoxes": "https://imageDownloadLink",
+      "viewSchedule": "https://imageDownloadLink",
+      "visibilityOff": "https://imageDownloadLink",
+      "visibility": "https://imageDownloadLink",
+      "warning": "https://imageDownloadLink",
+      "whatsApp": "https://imageDownloadLink",
+      "wifi": "https://imageDownloadLink",
+      "zoomIn": "https://imageDownloadLink",
+      "zoomOut": "https://imageDownloadLink",
+      "contentNotAvailable": "https://imageDownloadLink",
+      "lockedContent": "https://imageDownloadLink",
+      "mobileBlackout": "https://imageDownloadLink",
+      "mylistNoItem": "https://imageDownloadLink",
+      "noConnectionError": "https://imageDownloadLink"
+    }
+  }
+}
