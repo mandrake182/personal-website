@@ -2,7 +2,7 @@
   "name": "DGO",
   "version": 1,
   "dateTime": "2024-10-17T11:16:00",
-  "typography": {
+  "typography": [
     "WelcomeH": {
       "fontFamily": "Simple_Magic",
       "fontSize": 10,
@@ -108,7 +108,7 @@
       "spacing": 0,
       "fontWeight": "bold"
     }
-  },
+  ],
   "colors": {
     "neutralTextPrimary": "#63BE36",
     "neutralTextSecondary": "#63BE36",
