@@ -184,7 +184,7 @@
       "opacityWhiteStrongest":"#63BE36"
    },
    "images":{
-      "logo_image":"pkg:/static/images/resources/Logo/dtv-logo.png",
+      "logo_image":"https://pablomaya.com/dtv-logo.png",
       "program_tile":"pkg:/static/images/resources/EPG/program_tile.9.png",
       "presearchFailover":"pkg:/static/images/resources/Cards/presearch-failover-dgo.png",
       "searchFailover":"pkg:/static/images/resources/Cards/failover-search-dgo.png",
