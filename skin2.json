@@ -228,6 +228,7 @@
       "episodesListItemFocus":"pkg:/static/images/resources/shared/$$RES$$/episode-focus.png",
       "episodesItemFailOver":"pkg:/static/images/resources/ShowExplorer/failover-episode.png",
       "qrcode_background":"pkg:/static/images/resources/Error/qrcode_background.png",
-      "incentive_icon":"pkg:/static/images/resources/IncentiveBanner/incentive_icon.png"
+      "incentive_icon":"pkg:/static/images/resources/IncentiveBanner/incentive_icon.png",
+      "skin": "-dgo"
    }
 }
