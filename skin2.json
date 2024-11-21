@@ -107,6 +107,13 @@
          "lineHeight":84,
          "spacing":0,
          "fontWeight":"bold"
+      },
+      "heading2M":{
+         "fontFamily":"poppins_regular",
+         "fontSize": 27,
+         "lineHeight":12,
+         "spacing":1.5,
+         "fontWeight":"regular"
       }
    },
    "colors":{
