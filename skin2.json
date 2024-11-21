@@ -114,6 +114,13 @@
          "lineHeight":12,
          "spacing":1.5,
          "fontWeight":"regular"
+      },
+      "headingMRegular":{
+         "fontFamily":"poppins_medium",
+         "fontSize": 24,
+         "lineHeight":12,
+         "spacing":1.5,
+         "fontWeight":"regular"
       }
    },
    "colors":{
