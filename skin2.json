@@ -3,12 +3,12 @@
    "version":1,
    "dateTime":"2024-10-17T11:16:00",
    "typography":{
-      "WelcomeH":{
-         "fontFamily":"Simple_Magic",
+      "captionRegular":{
+         "fontFamily":"ibm_plex_sans",
          "fontSize":10,
          "lineHeight":12,
          "spacing":1.5,
-         "fontWeight":"bold"
+         "fontWeight":"regular"
       },
       "caption":{
          "fontFamily":"ibm_plex_sans_medium",
