@@ -3,19 +3,12 @@
    "version":1,
    "dateTime":"2024-10-17T11:16:00",
    "typography":{
-      "captionRegular":{
+      "caption":{
          "fontFamily":"ibm_plex_sans",
          "fontSize":10,
          "lineHeight":12,
          "spacing":1.5,
          "fontWeight":"regular"
-      },
-      "caption":{
-         "fontFamily":"ibm_plex_sans_medium",
-         "fontSize":10,
-         "lineHeight":12,
-         "spacing":1.5,
-         "fontWeight":"medium"
       },
       "bodyS":{
          "fontFamily":"ibm_plex_sans_medium",
@@ -39,18 +32,18 @@
          "fontWeight":"regular"
       },
       "overline":{
-         "fontFamily":"poppins_semibold",
-         "fontSize":10,
+         "fontFamily":"poppins_regular",
+         "fontSize":16,
          "lineHeight":12,
          "spacing":1.5,
-         "fontWeight":"semibold"
+         "fontWeight":"regular"
       },
       "heading2XS":{
-         "fontFamily":"poppins_semibold",
-         "fontSize":12,
-         "lineHeight":16,
+         "fontFamily":"poppins_medium",
+         "fontSize": 24,
+         "lineHeight":12,
          "spacing":1.5,
-         "fontWeight":"semibold"
+         "fontWeight":"regular"
       },
       "headingXS":{
          "fontFamily":"poppins_semibold",
@@ -107,20 +100,6 @@
          "lineHeight":84,
          "spacing":0,
          "fontWeight":"bold"
-      },
-      "heading2M":{
-         "fontFamily":"poppins_regular",
-         "fontSize": 27,
-         "lineHeight":12,
-         "spacing":1.5,
-         "fontWeight":"regular"
-      },
-      "headingMRegular":{
-         "fontFamily":"poppins_medium",
-         "fontSize": 24,
-         "lineHeight":12,
-         "spacing":1.5,
-         "fontWeight":"regular"
       }
    },
    "colors":{
