@@ -178,8 +178,8 @@
       "opacityWhiteStrongest":"#FFFFFFD9"
    },
    "images":{
-      "logo_image":"https://pablomaya.com/dtv-logo.png",
-      "program_tile":"pkg:/static/images/resources/EPG/program_tile.9.png",
+      "logoImage":"https://pablomaya.com/dtv-logo.png",
+      "programTile":"pkg:/static/images/resources/EPG/program_tile.9.png",
       "presearchFailover":"pkg:/static/images/resources/Cards/presearch-failover-dgo.png",
       "searchFailover":"pkg:/static/images/resources/Cards/failover-search-dgo.png",
       "introProfile":"pkg:/static/images/resources/MultipleProfile/$$RES$$/IntroProfilesView.png",
@@ -196,12 +196,12 @@
       "lockIcon36x36":"pkg:/static/images/resources/Cards/$$RES$$/lock-icon-36x36.png",
       "lockIcon32x32":"pkg:/static/images/resources/Cards/$$RES$$/lock-icon-32x32.png",
       "parentalIcon40x40":"pkg:/static/images/resources/Cards/$$RES$$/parental-icon-40x40.png",
-      "pdp_buttons_subscription":"pkg:/static/images/resources/Button/$$RES$$/lock-icon-no-background-20x20.png",
-      "pdp_buttons_watch":"pkg:/static/images/resources/Button/$$RES$$/play-icon.png",
-      "pdp_buttons_fromstart":"pkg:/static/images/resources/Button/$$RES$$/start-over-icon.png",
+      "pdpButtonsSubscription":"pkg:/static/images/resources/Button/$$RES$$/lock-icon-no-background-20x20.png",
+      "pdpButtonsWatch":"pkg:/static/images/resources/Button/$$RES$$/play-icon.png",
+      "pdpButtonsFromstart":"pkg:/static/images/resources/Button/$$RES$$/start-over-icon.png",
       "errorModalIcon":"pkg:/static/images/resources/Error/error-icon.png",
-      "play_error":"pkg:/static/images/resources/Error/play_error_dgo.png",
-      "lock_error":"pkg:/static/images/resources/Error/lock_error_icon_dgo.png",
+      "playError":"pkg:/static/images/resources/Error/play_error_dgo.png",
+      "lockError":"pkg:/static/images/resources/Error/lock_error_icon_dgo.png",
       "headerLogo":"pkg:/static/images/resources/HeaderLogo/dgo-logo-menu.png",
       "mediumFeatureCardFailoverFeature":"pkg:/static/images/resources/Cards/failover-feature-dgo.png",
       "failoverContinueWatching":"pkg:/static/images/resources/Cards/failover-continue-watching-dgo.png",
@@ -216,12 +216,11 @@
       "middleDesabledStatus":"pkg:/static/images/resources/MultipleProfile/ageRating/middleDesabledStatus.png",
       "logoRokuPromo":"pkg:/static/images/resources/Vouchers/dtv_roku_promo.png",
       "backgroundTextField":"pkg:/static/images/resources/shared/$$RES$$/focus_text_field_bg.9.png",
-      "pdp_backgroundImage":"pkg:/static/images/resources/Cards/failover-pdp.png",
-      "pdp_blackGradientLeftPoster":"https://roku-logos-store-prd-origin.s3.amazonaws.com/overlay_gradient_black.png",
+      "pdpBackgroundImage":"pkg:/static/images/resources/Cards/failover-pdp.png",
+      "pdpBlackGradientLeftPoster":"https://roku-logos-store-prd-origin.s3.amazonaws.com/overlay_gradient_black.png",
       "episodesListItemFocus":"pkg:/static/images/resources/shared/$$RES$$/episode-focus.png",
       "episodesItemFailOver":"pkg:/static/images/resources/ShowExplorer/failover-episode.png",
-      "qrcode_background":"pkg:/static/images/resources/Error/qrcode_background.png",
-      "incentive_icon":"pkg:/static/images/resources/IncentiveBanner/incentive_icon.png",
-      "skin": "-dgo"
+      "qrcodeBackground":"pkg:/static/images/resources/Error/qrcode_background.png",
+      "incentiveIcon":"pkg:/static/images/resources/IncentiveBanner/incentive_icon.png"
    }
 }
