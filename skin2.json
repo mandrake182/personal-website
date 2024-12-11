@@ -178,7 +178,7 @@
       "opacityWhiteStrongest":"#FFFFFFD9"
    },
    "images":{
-      "logoImage":"https://roku-logos-store-prd-origin.s3.amazonaws.com/dtv-logo.png",
+      "logoImage":"https://roku-logos-store-prd-origin.s3.amazonaws.com/images/resources/Logo/dtv-logo.png",
       "programTile":"https://roku-logos-store-prd-origin.s3.amazonaws.com/images/resources/EPG/program_tile.9.png",
       "presearchFailover":"https://roku-logos-store-prd-origin.s3.amazonaws.com/images/resources/Cards/presearch-failover-dgo.png",
       "searchFailover":"https://roku-logos-store-prd-origin.s3.amazonaws.com/images/resources/Cards/failover-search-dgo.png",
