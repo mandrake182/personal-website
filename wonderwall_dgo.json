@@ -221,7 +221,6 @@
       "episodesListItemFocus":"https://roku-logos-store-prd-origin.s3.amazonaws.com/images/resources/shared/$$RES$$/episode-focus.png",
       "episodesItemFailOver":"https://roku-logos-store-prd-origin.s3.amazonaws.com/images/resources/ShowExplorer/failover-episode.png",
       "qrcodeBackground":"https://roku-logos-store-prd-origin.s3.amazonaws.com/images/resources/Error/qrcode_background.png",
-      "incentiveIcon":"https://roku-logos-store-prd-origin.s3.amazonaws.com/images/resources/IncentiveBanner/incentive_icon.png",
-      "skin": "-dgo"
+      "incentiveIcon":"https://roku-logos-store-prd-origin.s3.amazonaws.com/images/resources/IncentiveBanner/incentive_icon.png"
    }
 }
