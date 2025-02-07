@@ -1,10 +1,10 @@
 {
   "typography": {
-    "caption": [
+    "caption": {
       {
-        "platforms": [
+        "platforms": {
           "android_mobile", "ios_mobile", "web"
-        ],
+        },
         "fontFamily": "ibm_plex_sans_medium",
         "fontSize": 10,
         "lineHeight": 12,
@@ -12,21 +12,21 @@
         "fontWeight": 500
       },
       {
-        "platforms": [
+        "platforms": {
           "android_tv", "fire_tv", "apple_tv", "html5", "roku"
-        ],
+        },
         "fontFamily": "ibm_plex_sans_medium",
         "fontSize": 18,
         "lineHeight": 24,
         "spacing": 0,
         "fontWeight": 500
       }
-    ],
-    "bodyS": [
+    },
+    "bodyS": {
       {
-        "platforms": [
+        "platforms": {
           "android_mobile", "ios_mobile", "web"
-        ],
+          },
         "fontFamily": "ibm_plex_sans_medium",
         "fontSize": 12,
         "lineHeight": 16,
@@ -34,9 +34,9 @@
         "fontWeight": 400
       },
       {
-        "platforms": [
+        "platforms": {
           "android_tv", "fire_tv", "apple_tv", "html5"
-        ],
+        },
         "fontFamily": "ibm_plex_sans_medium",
         "fontSize": 20,
         "lineHeight": 28,
@@ -44,21 +44,21 @@
         "fontWeight": 400
       },
       {
-        "platforms": [
+        "platforms": {
           "roku"
-        ],
+        },
         "fontFamily": "ibm_plex_sans_medium",
         "fontSize": 21,
         "lineHeight": 28,
         "spacing": 0,
         "fontWeight": 400
       }
-    ],
-    "bodyM": [
+    },
+    "bodyM": {
       {
-        "platforms": [
+        "platforms": {
           "android_mobile", "ios_mobile", "web"
-        ],
+        },
         "fontFamily": "ibm_plex_sans_medium",
         "fontSize": 14,
         "lineHeight": 20,
@@ -66,21 +66,21 @@
         "fontWeight": 400
       },
       {
-        "platforms": [
+        "platforms": {
           "android_tv", "fire_tv", "apple_tv", "html5", "roku"
-        ],
+        },
         "fontFamily": "ibm_plex_sans_medium",
         "fontSize": 24,
         "lineHeight": 32,
         "spacing": 0,
         "fontWeight": 400
       }
-    ],
-    "bodyL": [
+    },
+    "bodyL": {
       {
-        "platforms": [
+        "platforms": {
           "android_mobile", "ios_mobile", "web"
-        ],
+        },
         "fontFamily": "ibm_plex_sans_medium",
         "fontSize": 16,
         "lineHeight": 24,
@@ -88,9 +88,9 @@
         "fontWeight": 400
       },
       {
-        "platforms": [
+        "platforms": {
           "android_tv", "fire_tv", "apple_tv", "html5"
-        ],
+        },
         "fontFamily": "ibm_plex_sans_medium",
         "fontSize": 28,
         "lineHeight": 36,
@@ -98,21 +98,21 @@
         "fontWeight": 400
       },
       {
-        "platforms": [
+        "platforms": {
           "roku"
-        ],
+        },
         "fontFamily": "ibm_plex_sans_medium",
         "fontSize": 27,
         "lineHeight": 36,
         "spacing": 0,
         "fontWeight": 400
       }
-    ],
-    "overline": [
+    },
+    "overline": {
       {
-        "platforms": [
+        "platforms": {
           "android_mobile", "ios_mobile", "web"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 10,
         "lineHeight": 12,
@@ -120,9 +120,9 @@
         "fontWeight": 600
       },
       {
-        "platforms": [
+        "platforms": {
           "android_tv", "fire_tv", "apple_tv", "html5"
-        ],
+          },
         "fontFamily": "poppins",
         "fontSize": 16,
         "lineHeight": 22,
@@ -130,21 +130,21 @@
         "fontWeight": 500
       },
       {
-        "platforms": [
+        "platforms": {
           "roku"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 15,
         "lineHeight": 20,
         "spacing": 0,
         "fontWeight": 500
       }
-    ],
-    "heading2XS": [
+    },
+    "heading2XS": {
       {
-        "platforms": [
+        "platforms": {
           "android_mobile", "ios_mobile", "web"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 12,
         "lineHeight": 16,
@@ -152,9 +152,9 @@
         "fontWeight": 600
       },
       {
-        "platforms": [
+        "platforms": {
           "android_tv", "fire_tv", "apple_tv", "html5"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 20,
         "lineHeight": 26,
@@ -162,21 +162,21 @@
         "fontWeight":600
       },
       {
-        "platforms": [
+        "platforms": {
           "roku"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 18,
         "lineHeight": 24,
         "spacing": 0,
         "fontWeight": 600
       }
-    ],
-    "headingXS": [
+    },
+    "headingXS": {
       {
-        "platforms": [
+        "platforms": {
           "android_mobile", "ios_mobile", "web"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 14,
         "lineHeight": 20,
@@ -184,9 +184,9 @@
         "fontWeight": 600
       },
       {
-        "platforms": [
+        "platforms": {
           "android_tv", "fire_tv", "apple_tv", "html5"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 22,
         "lineHeight": 30,
@@ -194,21 +194,21 @@
         "fontWeight":600
       },
       {
-        "platforms": [
+        "platforms": {
           "roku"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 21,
         "lineHeight": 28,
         "spacing": 0,
         "fontWeight": 600
       }
-    ],
-    "headingS": [
+    },
+    "headingS": {
       {
-        "platforms": [
+        "platforms": {
           "android_mobile", "ios_mobile", "web"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 16,
         "lineHeight": 24,
@@ -216,21 +216,21 @@
         "fontWeight": 600
       },
       {
-        "platforms": [
+        "platforms": {
           "android_tv", "fire_tv", "apple_tv", "html5","roku"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 24,
         "lineHeight": 32,
         "spacing": 0,
         "fontWeight": 600
       }
-    ],
-    "headingM": [
+    },
+    "headingM": {
       {
-        "platforms": [
+        "platforms": {
           "android_mobile", "ios_mobile", "web"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 18,
         "lineHeight": 28,
@@ -238,9 +238,9 @@
         "fontWeight": 600
       },
       {
-        "platforms": [
+        "platforms": {
           "android_tv", "fire_tv", "apple_tv", "html5"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 28,
         "lineHeight": 38,
@@ -248,21 +248,21 @@
         "fontWeight": 600
       },
       {
-        "platforms": [
+        "platforms": {
           "roku"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 27,
         "lineHeight": 36,
         "spacing": 0,
         "fontWeight": 600
       }
-    ],
-    "headingL": [
+    },
+    "headingL": {
       {
-        "platforms": [
+        "platforms": {
           "android_mobile", "ios_mobile", "web"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 20,
         "lineHeight": 32,
@@ -270,9 +270,9 @@
         "fontWeight": 600
       },
       {
-        "platforms": [
+        "platforms": {
           "android_tv", "fire_tv", "apple_tv", "html5"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 32,
         "lineHeight": 42,
@@ -280,21 +280,21 @@
         "fontWeight": 600
       },
       {
-        "platforms": [
+        "platforms": {
           "roku"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 33,
         "lineHeight": 42,
         "spacing": 0,
         "fontWeight": 600
       }
-    ],
-    "headingXL": [
+    },
+    "headingXL": {
       {
-        "platforms": [
+        "platforms": {
           "android_mobile", "ios_mobile", "web"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 24,
         "lineHeight": 36,
@@ -302,21 +302,21 @@
         "fontWeight": 700
       },
       {
-        "platforms": [
+        "platforms": {
           "android_tv", "fire_tv", "apple_tv", "html5", "roku"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 36,
         "lineHeight": 46,
         "spacing": 0,
         "fontWeight": 700
       }
-    ],
-    "heading2XL": [
+    },
+    "heading2XL": {
       {
-        "platforms": [
+        "platforms": {
           "android_mobile", "ios_mobile", "web"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 32,
         "lineHeight": 40,
@@ -324,9 +324,9 @@
         "fontWeight": 700
       },
       {
-        "platforms": [
+        "platforms": {
           "android_tv", "fire_tv", "apple_tv", "html5"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 44,
         "lineHeight": 56,
@@ -334,21 +334,21 @@
         "fontWeight": 700
       },
       {
-        "platforms": [
+        "platforms": {
           "roku"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 45,
         "lineHeight": 58,
         "spacing": 0,
         "fontWeight": 700
       }
-    ],
-    "heading3XL": [
+    },
+    "heading3XL": {
       {
-        "platforms": [
+        "platforms": {
           "android_mobile", "ios_mobile", "web"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 40,
         "lineHeight": 52,
@@ -356,21 +356,21 @@
         "fontWeight": 700
       },
       {
-        "platforms": [
+        "platforms": {
           "android_tv", "fire_tv", "apple_tv", "html5", "roku"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 48,
         "lineHeight": 62,
         "spacing": 0,
         "fontWeight": 700
       }
-    ],
-    "heading4XL": [
+    },
+    "heading4XL": {
       {
-        "platforms": [
+        "platforms": {
           "android_mobile", "ios_mobile", "web"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 64,
         "lineHeight": 84,
@@ -378,9 +378,9 @@
         "fontWeight": 700
       },
       {
-        "platforms": [
+        "platforms": {
           "android_tv", "fire_tv", "apple_tv", "html5"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 56,
         "lineHeight": 72,
@@ -388,33 +388,33 @@
         "fontWeight": 700
       },
       {
-        "platforms": [
+        "platforms": {
           "roku"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 56,
         "lineHeight": 74,
         "spacing": 0,
         "fontWeight": 700
       }
-    ],
-    "heading5XL": [
+    },
+    "heading5XL": {
       {
-        "platforms": [
+        "platforms": {
           "android_tv", "fire_tv", "apple_tv", "html5", "roku"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 72,
         "lineHeight": 94,
         "spacing": 0,
         "fontWeight": 700
       }
-    ],
-    "heading6XL": [
+    },
+    "heading6XL": {
       {
-        "platforms": [
+        "platforms": {
           "android_tv", "fire_tv", "apple_tv", "html5"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 88,
         "lineHeight": 114,
@@ -422,16 +422,16 @@
         "fontWeight": 700
       },
       {
-        "platforms": [
+        "platforms": {
           "roku"
-        ],
+        },
         "fontFamily": "poppins",
         "fontSize": 87,
         "lineHeight": 114,
         "spacing": 0,
         "fontWeight": 700
       }
-    ]
+    }
   },
   "colors": {
     "neutralTextPrimary": "#fff",
@@ -525,8 +525,8 @@
     "welcomeGranHermanoTabletBackground": "https://s3.directv.com/sjsjajasd/welcome-granhermano-background-$platform.$imageExtension" // verificar uma melhor abordagem!!
   },
   "mapping": { // Mapeando apenas informativo (Não será usado no código)
-    "platforms": ["android_mobile", "android_tv", "fire_tv", "ios_mobile","apple_tv", "html5", "web", "chromecast", "roku","all"],
-    "imageExtensions": ["svg", "png", "pdf", "jpg"]
+    "platforms": {"android_mobile", "android_tv", "fire_tv", "ios_mobile","apple_tv", "html5", "web", "chromecast", "roku","all"},
+    "imageExtensions": {"svg", "png", "pdf", "jpg"}
   },
   "metadata": {
     "name": "DGO",
