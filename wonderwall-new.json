@@ -1,0 +1,536 @@
+{
+  "typography": {
+    "caption": [
+      {
+        "platforms": [
+          "android_mobile", "ios_mobile", "web"
+        ],
+        "fontFamily": "ibm_plex_sans_medium",
+        "fontSize": 10,
+        "lineHeight": 12,
+        "spacing": 1.5,
+        "fontWeight": 500
+      },
+      {
+        "platforms": [
+          "android_tv", "fire_tv", "apple_tv", "html5", "roku"
+        ],
+        "fontFamily": "ibm_plex_sans_medium",
+        "fontSize": 18,
+        "lineHeight": 24,
+        "spacing": 0,
+        "fontWeight": 500
+      }
+    ],
+    "bodyS": [
+      {
+        "platforms": [
+          "android_mobile", "ios_mobile", "web"
+        ],
+        "fontFamily": "ibm_plex_sans_medium",
+        "fontSize": 12,
+        "lineHeight": 16,
+        "spacing": 1.5,
+        "fontWeight": 400
+      },
+      {
+        "platforms": [
+          "android_tv", "fire_tv", "apple_tv", "html5"
+        ],
+        "fontFamily": "ibm_plex_sans_medium",
+        "fontSize": 20,
+        "lineHeight": 28,
+        "spacing": 0,
+        "fontWeight": 400
+      },
+      {
+        "platforms": [
+          "roku"
+        ],
+        "fontFamily": "ibm_plex_sans_medium",
+        "fontSize": 21,
+        "lineHeight": 28,
+        "spacing": 0,
+        "fontWeight": 400
+      }
+    ],
+    "bodyM": [
+      {
+        "platforms": [
+          "android_mobile", "ios_mobile", "web"
+        ],
+        "fontFamily": "ibm_plex_sans_medium",
+        "fontSize": 14,
+        "lineHeight": 20,
+        "spacing": 1,
+        "fontWeight": 400
+      },
+      {
+        "platforms": [
+          "android_tv", "fire_tv", "apple_tv", "html5", "roku"
+        ],
+        "fontFamily": "ibm_plex_sans_medium",
+        "fontSize": 24,
+        "lineHeight": 32,
+        "spacing": 0,
+        "fontWeight": 400
+      }
+    ],
+    "bodyL": [
+      {
+        "platforms": [
+          "android_mobile", "ios_mobile", "web"
+        ],
+        "fontFamily": "ibm_plex_sans_medium",
+        "fontSize": 16,
+        "lineHeight": 24,
+        "spacing": 1,
+        "fontWeight": 400
+      },
+      {
+        "platforms": [
+          "android_tv", "fire_tv", "apple_tv", "html5"
+        ],
+        "fontFamily": "ibm_plex_sans_medium",
+        "fontSize": 28,
+        "lineHeight": 36,
+        "spacing": 0,
+        "fontWeight": 400
+      },
+      {
+        "platforms": [
+          "roku"
+        ],
+        "fontFamily": "ibm_plex_sans_medium",
+        "fontSize": 27,
+        "lineHeight": 36,
+        "spacing": 0,
+        "fontWeight": 400
+      }
+    ],
+    "overline": [
+      {
+        "platforms": [
+          "android_mobile", "ios_mobile", "web"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 10,
+        "lineHeight": 12,
+        "spacing": 1.5,
+        "fontWeight": 600
+      },
+      {
+        "platforms": [
+          "android_tv", "fire_tv", "apple_tv", "html5"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 16,
+        "lineHeight": 22,
+        "spacing": 0,
+        "fontWeight": 500
+      },
+      {
+        "platforms": [
+          "roku"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 15,
+        "lineHeight": 20,
+        "spacing": 0,
+        "fontWeight": 500
+      }
+    ],
+    "heading2XS": [
+      {
+        "platforms": [
+          "android_mobile", "ios_mobile", "web"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 12,
+        "lineHeight": 16,
+        "spacing": 1.5,
+        "fontWeight": 600
+      },
+      {
+        "platforms": [
+          "android_tv", "fire_tv", "apple_tv", "html5"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 20,
+        "lineHeight": 26,
+        "spacing": 0,
+        "fontWeight":600
+      },
+      {
+        "platforms": [
+          "roku"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 18,
+        "lineHeight": 24,
+        "spacing": 0,
+        "fontWeight": 600
+      }
+    ],
+    "headingXS": [
+      {
+        "platforms": [
+          "android_mobile", "ios_mobile", "web"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 14,
+        "lineHeight": 20,
+        "spacing": 1,
+        "fontWeight": 600
+      },
+      {
+        "platforms": [
+          "android_tv", "fire_tv", "apple_tv", "html5"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 22,
+        "lineHeight": 30,
+        "spacing": 0,
+        "fontWeight":600
+      },
+      {
+        "platforms": [
+          "roku"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 21,
+        "lineHeight": 28,
+        "spacing": 0,
+        "fontWeight": 600
+      }
+    ],
+    "headingS": [
+      {
+        "platforms": [
+          "android_mobile", "ios_mobile", "web"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 16,
+        "lineHeight": 24,
+        "spacing": 0,
+        "fontWeight": 600
+      },
+      {
+        "platforms": [
+          "android_tv", "fire_tv", "apple_tv", "html5","roku"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 24,
+        "lineHeight": 32,
+        "spacing": 0,
+        "fontWeight": 600
+      }
+    ],
+    "headingM": [
+      {
+        "platforms": [
+          "android_mobile", "ios_mobile", "web"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 18,
+        "lineHeight": 28,
+        "spacing": 0,
+        "fontWeight": 600
+      },
+      {
+        "platforms": [
+          "android_tv", "fire_tv", "apple_tv", "html5"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 28,
+        "lineHeight": 38,
+        "spacing": 0,
+        "fontWeight": 600
+      },
+      {
+        "platforms": [
+          "roku"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 27,
+        "lineHeight": 36,
+        "spacing": 0,
+        "fontWeight": 600
+      }
+    ],
+    "headingL": [
+      {
+        "platforms": [
+          "android_mobile", "ios_mobile", "web"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 20,
+        "lineHeight": 32,
+        "spacing": 0,
+        "fontWeight": 600
+      },
+      {
+        "platforms": [
+          "android_tv", "fire_tv", "apple_tv", "html5"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 32,
+        "lineHeight": 42,
+        "spacing": 0,
+        "fontWeight": 600
+      },
+      {
+        "platforms": [
+          "roku"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 33,
+        "lineHeight": 42,
+        "spacing": 0,
+        "fontWeight": 600
+      }
+    ],
+    "headingXL": [
+      {
+        "platforms": [
+          "android_mobile", "ios_mobile", "web"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 24,
+        "lineHeight": 36,
+        "spacing": 0,
+        "fontWeight": 700
+      },
+      {
+        "platforms": [
+          "android_tv", "fire_tv", "apple_tv", "html5", "roku"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 36,
+        "lineHeight": 46,
+        "spacing": 0,
+        "fontWeight": 700
+      }
+    ],
+    "heading2XL": [
+      {
+        "platforms": [
+          "android_mobile", "ios_mobile", "web"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 32,
+        "lineHeight": 40,
+        "spacing": 0,
+        "fontWeight": 700
+      },
+      {
+        "platforms": [
+          "android_tv", "fire_tv", "apple_tv", "html5"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 44,
+        "lineHeight": 56,
+        "spacing": 0,
+        "fontWeight": 700
+      },
+      {
+        "platforms": [
+          "roku"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 45,
+        "lineHeight": 58,
+        "spacing": 0,
+        "fontWeight": 700
+      }
+    ],
+    "heading3XL": [
+      {
+        "platforms": [
+          "android_mobile", "ios_mobile", "web"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 40,
+        "lineHeight": 52,
+        "spacing": 0,
+        "fontWeight": 700
+      },
+      {
+        "platforms": [
+          "android_tv", "fire_tv", "apple_tv", "html5", "roku"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 48,
+        "lineHeight": 62,
+        "spacing": 0,
+        "fontWeight": 700
+      }
+    ],
+    "heading4XL": [
+      {
+        "platforms": [
+          "android_mobile", "ios_mobile", "web"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 64,
+        "lineHeight": 84,
+        "spacing": 0,
+        "fontWeight": 700
+      },
+      {
+        "platforms": [
+          "android_tv", "fire_tv", "apple_tv", "html5"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 56,
+        "lineHeight": 72,
+        "spacing": 0,
+        "fontWeight": 700
+      },
+      {
+        "platforms": [
+          "roku"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 56,
+        "lineHeight": 74,
+        "spacing": 0,
+        "fontWeight": 700
+      }
+    ],
+    "heading5XL": [
+      {
+        "platforms": [
+          "android_tv", "fire_tv", "apple_tv", "html5", "roku"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 72,
+        "lineHeight": 94,
+        "spacing": 0,
+        "fontWeight": 700
+      }
+    ],
+    "heading6XL": [
+      {
+        "platforms": [
+          "android_tv", "fire_tv", "apple_tv", "html5"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 88,
+        "lineHeight": 114,
+        "spacing": 0,
+        "fontWeight": 700
+      },
+      {
+        "platforms": [
+          "roku"
+        ],
+        "fontFamily": "poppins",
+        "fontSize": 87,
+        "lineHeight": 114,
+        "spacing": 0,
+        "fontWeight": 700
+      }
+    ]
+  },
+  "colors": {
+    "neutralTextPrimary": "#fff",
+    "neutralTextSecondary": "#c1c1c1",
+    "neutralTextDisable": "#858585",
+    "neutralTextActive": "#101010",
+    "neutralTextCrossWhitePrimary": "#fff",
+    "neutralTextCrossWhiteSecondary": "#1b1b1b",
+    "neutralTextCrossBlackPrimary": "#101010",
+    "neutralTextCrossBlackSecondary": "#464646",
+    "neutralBgPrimary": "#101010",
+    "neutralBgSecondary": "#1b1b1b",
+    "neutralBgTertiary": "#2c2c2c",
+    "neutralBgDisable": "#464646",
+    "neutralBgActive": "#fff",
+    "neutralHoverBgPrimary": "#2c2c2c",
+    "neutralHoverBgSecondary": "#464646",
+    "neutralHoverBgTertiary": "#646464",
+    "neutralHoverBgDisable": "#858585",
+    "neutralHoverBgActive": "#dcdcdc",
+    "neutralBgCrossWhitePrimary": "#fff",
+    "neutralBgCrossWhiteSecondary": "#ebebeb",
+    "neutralBgCrossGray": "#464646",
+    "neutralBgCrossBlackPrimary": "#101010",
+    "neutralBgCrossBlackSecondary": "#1b1b1b",
+    "neutralBorderPrimary": "#a3a3a3",
+    "neutralBorderSecondary": "#464646",
+    "neutralBorderCrossBlackPrimary": "#464646",
+    "neutralBorderCrossBlackSecondary": "#a3a3a3",
+    "neutralBorderCrossWhitePrimary": "#a3a3a3",
+    "neutralBorderCrossWhiteSecondary": "#464646",
+    "mainTextPrimary": "#ff2424",
+    "mainBgPrimary": "#e81c24",
+    "mainBgActive": "#e81c24",
+    "mainBorder": "#e81c24",
+    "mainBrand": "#e81c24",
+    "mainHoverBgPrimary": "#be0f0f",
+    "mainHoverBgActive": "#be0f0f",
+    "complementaryTextPrimary": "#ffc60b",
+    "complementaryBgPrimary": "#ffc60b",
+    "complementaryHoverBgPrimary": "#cc9e08",
+    "complementaryBorder": "#ffc60b",
+    "complementaryBrand": "#ffc60b",
+    "successTextPrimary": "#63be36",
+    "successBgPrimary": "#63be36",
+    "successHoverBgPrimary": "#448325",
+    "successBorder": "#63be36",
+    "warningTextPrimary": "#ffc60b",
+    "warningBgPrimary": "#e5b209",
+    "warningHoverBgPrimary": "#a68107",
+    "warningBorder": "#ffc60b",
+    "errorTextPrimary": "#ff2424",
+    "errorBgPrimary": "#e81c24",
+    "errorHoverBgPrimary": "#be0f0f",
+    "errorBorder": "#ff2424",
+    "informativeTextPrimary": "#00aeef",
+    "informativeBgPrimary": "#00aeef",
+    "informativeHoverBgPrimary": "#077cc0",
+    "informativeBorder": "#00aeef",
+    "avatarBg1": "#e81c24",
+    "avatarBg2": "#448325",
+    "avatarBg3": "#f9a80a",
+    "avatarBg4": "#f89c1b",
+    "avatarBg5": "#253c75",
+    "opacityBlackWeakest": "#10101026",
+    "opacityBlackWeak": "#1010104D",
+    "opacityBlackMedium": "#10101080",
+    "opacityBlackStrong": "#101010B3",
+    "opacityBlackStrongest": "#101010D9",
+    "opacityWhiteWeakest": "#FFFFFF26",
+    "opacityWhiteWeak": "#FFFFFF4D",
+    "opacityWhiteMedium": "#FFFFFF80",
+    "opacityWhiteStrong": "#FFFFFFB3",
+    "opacityWhiteStrongest": "#FFFFFFD9"
+  },
+  "images": {
+    // pattern names (camelCase) - context (granHermano, Tappp, Welcome, Carousel) e Finalidade(Background/Logo/Banner/Highlight)
+    // (ex:. portraitCarouselDefaultBackground, errorDefaultBanner)
+    // 1. parametrização do platform e imageExtension devem usadas apenas na existência de imagens distintas entre plataformas.
+    // 2. Para imagens iguais em todas as plataformas, não haverá necessidade de colocar o parametro $platform,
+    // sendo assim, o parametro imageExtension, seguindo a mesma regra
+    // 3. caso erro na imagem com a plataforma requisitada, chamar novamente a imagem com a plataforma "all"
+
+    "defaultLogo": "https://s3.directv.com/sjsjajasd/default-logo-$platform.$imageExtension",
+    "reductionLogo": "https://s3.directv.com/sjsjajasd/reduction-logo-$platform.$imageExtension",
+    "cobrandingLogo": "https://s3.directv.com/sjsjajasd/cobranding-logo-$platform.$imageExtension",
+    "verticalLogo": "https://s3.directv.com/sjsjajasd/vertical-logo-$platform.$imageExtension",
+
+    "welcomeDefaultBackground": "https://s3.directv.com/sjsjajasd/welcome-background-$platform.$imageExtension",
+    "welcomeGranHermanoBackground": "https://s3.directv.com/sjsjajasd/welcome-granhermano-background-$platform.$imageExtension",
+    "welcomeGranHermanoTabletBackground": "https://s3.directv.com/sjsjajasd/welcome-granhermano-background-$platform.$imageExtension" // verificar uma melhor abordagem!!
+  },
+  "mapping": { // Mapeando apenas informativo (Não será usado no código)
+    "platforms": ["android_mobile", "android_tv", "fire_tv", "ios_mobile","apple_tv", "html5", "web", "chromecast", "roku","all"],
+    "imageExtensions": ["svg", "png", "pdf", "jpg"]
+  },
+  "metadata": {
+    "name": "DGO",
+    "version": 1,
+    "lastUpdateAt": "2024-10-17T11:16:00"
+  }
+}
