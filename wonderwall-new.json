@@ -8,7 +8,7 @@
         "platforms": [
           "android_mobile", "ios_mobile", "web"
         ],
-        "fontFamily": "ibm_plex_sans_medium",
+        "fontFamily": "ibm_plex_sans",
         "fontSize": 10,
         "lineHeight": 12,
         "spacing": 1.5,
@@ -18,7 +18,7 @@
         "platforms": [
           "android_tv", "fire_tv", "apple_tv", "html5", "roku"
         ],
-        "fontFamily": "ibm_plex_sans_medium",
+        "fontFamily": "ibm_plex_sans",
         "fontSize": 18,
         "lineHeight": 24,
         "spacing": 0,
@@ -30,7 +30,7 @@
         "platforms": [
           "android_mobile", "ios_mobile", "web"
         ],
-        "fontFamily": "ibm_plex_sans_medium",
+        "fontFamily": "ibm_plex_sans",
         "fontSize": 12,
         "lineHeight": 16,
         "spacing": 1.5,
@@ -40,7 +40,7 @@
         "platforms": [
           "android_tv", "fire_tv", "apple_tv", "html5"
         ],
-        "fontFamily": "ibm_plex_sans_medium",
+        "fontFamily": "ibm_plex_sans",
         "fontSize": 20,
         "lineHeight": 28,
         "spacing": 0,
@@ -50,7 +50,7 @@
         "platforms": [
           "roku"
         ],
-        "fontFamily": "ibm_plex_sans_medium",
+        "fontFamily": "ibm_plex_sans",
         "fontSize": 21,
         "lineHeight": 28,
         "spacing": 0,
@@ -62,7 +62,7 @@
         "platforms": [
           "android_mobile", "ios_mobile", "web"
         ],
-        "fontFamily": "ibm_plex_sans_medium",
+        "fontFamily": "ibm_plex_sans",
         "fontSize": 14,
         "lineHeight": 20,
         "spacing": 1,
@@ -72,7 +72,7 @@
         "platforms": [
           "android_tv", "fire_tv", "apple_tv", "html5", "roku"
         ],
-        "fontFamily": "ibm_plex_sans_medium",
+        "fontFamily": "ibm_plex_sans",
         "fontSize": 24,
         "lineHeight": 32,
         "spacing": 0,
@@ -84,7 +84,7 @@
         "platforms": [
           "android_mobile", "ios_mobile", "web"
         ],
-        "fontFamily": "ibm_plex_sans_medium",
+        "fontFamily": "ibm_plex_sans",
         "fontSize": 16,
         "lineHeight": 24,
         "spacing": 1,
@@ -94,7 +94,7 @@
         "platforms": [
           "android_tv", "fire_tv", "apple_tv", "html5"
         ],
-        "fontFamily": "ibm_plex_sans_medium",
+        "fontFamily": "ibm_plex_sans",
         "fontSize": 28,
         "lineHeight": 36,
         "spacing": 0,
@@ -104,7 +104,7 @@
         "platforms": [
           "roku"
         ],
-        "fontFamily": "ibm_plex_sans_medium",
+        "fontFamily": "ibm_plex_sans",
         "fontSize": 27,
         "lineHeight": 36,
         "spacing": 0,
