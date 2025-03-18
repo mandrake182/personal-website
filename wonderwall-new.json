@@ -1,5 +1,5 @@
 {
-    "typography": {
+    "typography":{
        "caption":[
           {
              "platforms":[
@@ -7,7 +7,7 @@
                 "ios_mobile",
                 "web"
              ],
-             "fontFamily":"ibm_plex_sans",
+             "fontFamily":"ibm_plex_sans_medium",
              "fontSize":10,
              "lineHeight":12,
              "spacing":1.5,
@@ -19,14 +19,23 @@
                 "fire_tv",
                 "apple_tv",
                 "html5",
-                "roku",
                 "chromecast"
+             ],
+             "fontFamily":"ibm_plex_sans_medium",
+             "fontSize":18,
+             "lineHeight":24,
+             "spacing":0,
+             "fontWeight":500
+          },
+          {
+             "platforms":[
+                "roku"
              ],
              "fontFamily":"ibm_plex_sans",
              "fontSize":18,
              "lineHeight":24,
              "spacing":0,
-             "fontWeight":500
+             "fontWeight":400
           }
        ],
        "bodyS":[
@@ -36,7 +45,7 @@
                 "ios_mobile",
                 "web"
              ],
-             "fontFamily":"ibm_plex_sans",
+             "fontFamily":"ibm_plex_sans_medium",
              "fontSize":12,
              "lineHeight":16,
              "spacing":1.5,
@@ -50,7 +59,7 @@
                 "html5",
                 "chromecast"
              ],
-             "fontFamily":"ibm_plex_sans",
+             "fontFamily":"ibm_plex_sans_medium",
              "fontSize":20,
              "lineHeight":28,
              "spacing":0,
@@ -74,7 +83,7 @@
                 "ios_mobile",
                 "web"
              ],
-             "fontFamily":"ibm_plex_sans",
+             "fontFamily":"ibm_plex_sans_medium",
              "fontSize":14,
              "lineHeight":20,
              "spacing":1,
@@ -103,7 +112,7 @@
                 "ios_mobile",
                 "web"
              ],
-             "fontFamily":"ibm_plex_sans",
+             "fontFamily":"ibm_plex_sans_medium",
              "fontSize":16,
              "lineHeight":24,
              "spacing":1,
@@ -117,7 +126,7 @@
                 "html5",
                 "chromecast"
              ],
-             "fontFamily":"ibm_plex_sans",
+             "fontFamily":"ibm_plex_sans_medium",
              "fontSize":28,
              "lineHeight":36,
              "spacing":0,
@@ -130,6 +139,32 @@
              "fontFamily":"ibm_plex_sans",
              "fontSize":27,
              "lineHeight":36,
+             "spacing":0,
+             "fontWeight":400
+          }
+       ],
+       "bodyXL":[
+          {
+             "platforms":[
+                "android_tv",
+                "fire_tv",
+                "apple_tv",
+                "html5",
+                "chromecast"
+             ],
+             "fontFamily":"ibm_plex_sans",
+             "fontSize":32,
+             "lineHeight":40,
+             "spacing":0,
+             "fontWeight":400
+          },
+          {
+             "platforms":[
+                "roku"
+             ],
+             "fontFamily":"ibm_plex_sans",
+             "fontSize":33,
+             "lineHeight":42,
              "spacing":0,
              "fontWeight":400
           }
@@ -169,7 +204,7 @@
              "fontSize":15,
              "lineHeight":20,
              "spacing":0,
-             "fontWeight":500
+             "fontWeight":400
           }
        ],
        "heading2XS":[
@@ -207,7 +242,7 @@
              "fontSize":18,
              "lineHeight":24,
              "spacing":0,
-             "fontWeight":600
+             "fontWeight":500
           }
        ],
        "headingXS":[
