@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Clasificados Toluca</title>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap">
+    <!-- Link Swiper's CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="header">
+    <h1>Clasificados Toluca</h1>
+  </div>
+  <section class="main swiper mySwiper">
+    <div class="wrapper swiper-wrapper">
+      <div class="slide swiper-slide">
+        <img src="images/img1.jpg" alt="" class="image" />
+        <div class="image-data">
+          <span class="text">Enjoy the finest coffee drinks.</span>
+          <h2>
+            Enjoy Our Exclusive <br />
+            Coffee and Cocktails
+          </h2>
+          <a href="#" class="button">About Us</a>
+        </div>
+      </div>
+      <div class="slide swiper-slide">
+        <img src="images/img2.jpg" alt="" class="image" />
+        <div class="image-data">
+          <span class="text">We really like what we do.</span>
+          <h2>
+            Coffee Beans with a <br />
+            Perfect Aroma
+          </h2>
+          <a href="#" class="button">About Us</a>
+        </div>
+      </div>
+      <div class="slide swiper-slide">
+        <img src="images/img3.jpg" alt="" class="image" />
+        <div class="image-data">
+          <span class="text">Making Our coffee with lover.</span>
+          <h2>
+            Alluring and Fragrant <br />
+            Coffee Aroma
+          </h2>
+          <a href="#" class="button">About Us</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="swiper-button-next nav-btn"></div>
+    <div class="swiper-button-prev nav-btn"></div>
+    <div class="swiper-pagination"></div>
+  </section>
+
+  <div class="search-bar">
+    <input type="text" id="search" placeholder="Search news...">
+    <button onclick="handleSearch()">Filtrar</button>
+  </div>
+  <div class="categories">
+    <button onclick="filterNews('general')">General</button>
+    <button onclick="filterNews('sports')">Deportes</button>
+    <button onclick="filterNews('technology')">Tecnología</button>
+    <button onclick="filterNews('entertainment')">Entretenimiento</button>
+  </div>
+  <div class="news-container" id="news-container"></div>
+
+  <!-- Swiper JS -->
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+  <!-- Initialize Swiper -->
+  <script>
+    var swiper = new Swiper(".mySwiper", {
+      slidesPerView: 1,
+      loop: true,
+      pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+      },
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+  </script>
+  <script src="script.js"></script>
+</body>
+</html>
